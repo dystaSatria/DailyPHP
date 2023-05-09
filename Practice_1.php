@@ -26,4 +26,3 @@ if ($pos < 3) {
 
 </body>
 </html>
-.
