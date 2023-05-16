@@ -1,1 +1,1 @@
-# Dail
+# Daily PHP Quest
