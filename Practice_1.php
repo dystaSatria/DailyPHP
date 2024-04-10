@@ -21,8 +21,6 @@ if ($pos < 3) {
 } else {
     echo ("Sonuc :");
     echo strpos( $_POST["metin"], $_POST["ara"]);;
-}
-?>
 
 </body>
 </html>
