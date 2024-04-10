@@ -23,4 +23,4 @@ if ($pos < 3) {
     echo strpos( $_POST["metin"], $_POST["ara"]);;
 
 </body>
-</html>
+</ht
