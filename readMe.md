@@ -1,2 +1,2 @@
 # Daily PHP codes
-nkmmm
+nk
