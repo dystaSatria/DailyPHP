@@ -1,3 +1,1 @@
-# Daily PHP Quest
-
-Some stuff about php.
+# Daily PHP codes
